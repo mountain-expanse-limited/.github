@@ -1,3 +1,3 @@
 # Mountain Expanse Limited
 
-👋 Hi, Welcome to profile for Mountain Expanse Limited.
+👋 Welcome to special repo for .github defaults for Mountain Expanse Limited projects.
